@@ -9,8 +9,8 @@ public class NestedSwitch {
 		System.out.println("Vcube Vegetable / Fruit Market ");
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter a Category : ");
-		
 		String catg = sc.next();
+		
 		String yn1 = "";
 		switch(catg) {
 		case "veg" -> {
