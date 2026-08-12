@@ -2,6 +2,8 @@ package com.Arrays;
 
 import java.util.Scanner;
 
+//WAP sum of integers 
+
 public class SumOfArray {
 
 	public static void main(String[] args) {
