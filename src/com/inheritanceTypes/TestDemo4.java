@@ -24,7 +24,7 @@ class PythonCourse extends Course{
 class SQLCourse extends Course{
 	@Override
 	void duration() {
-		System.out.println("SQLCourse :7 months");
+		System.out.println("SQLCourse : 7 months");
 	}
 	
 }
