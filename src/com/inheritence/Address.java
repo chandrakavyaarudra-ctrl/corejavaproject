@@ -1,4 +1,4 @@
-package com.inheritence;
+ package com.inheritence;
 
 public class Address {
 
