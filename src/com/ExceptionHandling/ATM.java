@@ -2,6 +2,7 @@ package com.ExceptionHandling;
 
 public class ATM {
 
+	@SuppressWarnings("null")
 	public static void main(String[] args) {
 		// withdraw Amount
 		try {
