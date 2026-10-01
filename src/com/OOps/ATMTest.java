@@ -7,7 +7,7 @@ public class ATMTest {
 		a1.setBalance(20000);
 		a1.checkBalance();
 		a1.deposite(5000);
-
+ 
 		a1.checkBalance();
 		a1.withdraw(3000);
 

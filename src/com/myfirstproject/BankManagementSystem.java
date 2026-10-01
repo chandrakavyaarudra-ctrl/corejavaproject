@@ -19,7 +19,7 @@ public class BankManagementSystem {
 		System.out.println("AccountBalance" + AccountBalance);
 		
 	}
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		
 		BankManagementSystem t1=new BankManagementSystem();
 		t1.AccountNumber = 1001;
