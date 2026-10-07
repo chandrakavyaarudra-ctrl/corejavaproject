@@ -7,7 +7,7 @@ public class TestDemo {
 		System.out.println("Main method started ");
 		Integer i1 =10;
 		
-		System.out.println(i1); //auto unboxing
+		System.out.println(i1); //auto un-boxing
 		TestDemo t = new TestDemo();
 		System.out.println(t);//object
 		
@@ -15,9 +15,9 @@ public class TestDemo {
 		System.out.println(b);//auto promotion
 		
 		
-		System.out.println(100);//int 
-		System.out.println(100L);//Long
-		System.out.println(5.9F);//float
+		System.out.println(100); //int 
+		System.out.println(100L); //Long
+		System.out.println(5.9F); //float
 
 		System.out.println(756.67456D);//double
 		
